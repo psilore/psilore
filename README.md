@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.appp/api/top-langs/?username=psilore)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="400" alt="Erik Emmerfors's Dev Card"/></a>
 
