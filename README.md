@@ -12,6 +12,7 @@
 A singular occurance of chaotic centralisation
 
 This is me, psilore
+♡ CSS ♡ HTML ♡ Javascript. Moderately proficient in those techniques 
 
 Well my name is Erik Emmerfors.
 
