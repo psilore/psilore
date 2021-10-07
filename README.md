@@ -1,5 +1,8 @@
 ### Hi there 👋
+[![Stats](https://github-readme-stats.vercel.app/api?username=psilore)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="400" alt="Erik Emmerfors's Dev Card"/></a>
+
 <!--
 **psilore/psilore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
