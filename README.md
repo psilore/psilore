@@ -34,5 +34,6 @@ Drop a dm if you need anything!
     <td><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="200" alt="Erik Emmerfors's Dev Card"/></a></td>
  </tr>
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
