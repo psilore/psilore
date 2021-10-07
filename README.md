@@ -29,11 +29,8 @@ Drop a dm if you need anything!
     <td><b style="font-size:30px">Daily dev</b></td>
  </tr>
  <tr>
-    <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=psilore&langs_count=8"></a>
+    <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=psilore&layout=compact">https://github.com/anuraghazra/github-readme-stats</a>
 </td>
     <td><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="200" alt="Erik Emmerfors's Dev Card"/></a></td>
  </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
