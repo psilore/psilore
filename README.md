@@ -30,6 +30,6 @@ Drop a dm if you need anything!
     <td><b style="font-size:30px">Daily dev</b></td>
  </tr>
  <tr>
-    <td><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="200" alt="Erik Emmerfors's Dev Card"/></a></td>
+    <td><a href="https://app.daily.dev/psimore"><img src="https://github.com/psilore/psilore/blob/main/devcard.svg" width="200" alt="Erik Emmerfors's Dev Card"/></a></td>
  </tr>
 </table>
