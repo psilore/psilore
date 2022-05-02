@@ -17,7 +17,7 @@ This is me, psilore
 Well my name is Erik Emmerfors.
 
 - Currently working on - An event syncronizing application for families with Neuropsychiatric Disease
-- Learning devops and cloud
+- Learning honeypots
 - Always looking to help out, just drop a dm!
 
 If you need to reach out to me, I am always on twitter, https://twitter.com/Emmerfors. 
