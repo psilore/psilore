@@ -19,6 +19,7 @@ Well my name is Erik Emmerfors.
 - Currently working on - An event syncronizing application for families with Neuropsychiatric Disease
 - Learning OSINT, behavioral user studies
 - Always looking to help out, just drop a dm!
+- Oh yes! I am going to ride this out...
 
 Drop a dm if you need anything!
 
