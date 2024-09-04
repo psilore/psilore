@@ -10,6 +10,8 @@ A singular occurance of chaotic centralisation
 
 # 🤟 Hi! Ny name is Erik Emmerfors.
 
-- Currently working on - An event syncronizing application for families with Neuropsychiatric Disease
+- Exploring AI that can interpret auditory input
 - Learning OSINT, behavioral user studies
+  - How to double speak
+  - How to mask intentions in conversation 
 - Always looking to help out, just drop a dm!
