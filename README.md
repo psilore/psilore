@@ -9,4 +9,4 @@ A singular occurance of chaotic centralisation
 >♡ CSS ♡ HTML ♡ Javascript. Moderately proficient in those techniques 
 
 <img src="https://render.gitanimals.org/farms/zorg-bork"/>
-> It should always be zero!
+>It should always be zero!
