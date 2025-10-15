@@ -17,7 +17,7 @@ A singular occurance of chaotic centralisation
 - Ingka ♡, DevOps/Software engineer, 2 years
 - Inter IKEA Homesmart ♡, DevOps/Embedded/Software engineer 1 year
 - Inter IKEA ♡, DevOps engineer 1 year
-- Örestad Linux ♡, Front-end developer 1 year
+- Örestad Linux ♡, Linux Sysadmin, Front-end developer 1 year
 - Vergic, Software engineer 1 year
 
 ### Enjoyments
