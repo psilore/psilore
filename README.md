@@ -5,5 +5,16 @@
 </picture>
 A singular occurance of chaotic centralisation
 
->This is me, psilore
->♡ CSS ♡ HTML ♡ Javascript. Moderately proficient in those techniques
+> This is me, psilore
+> ♡ CSS ♡ HTML ♡ Javascript. Moderately proficient in those techniques
+
+### Status
+- [Extraprenuer](https://www.extrapreneur.se/) (❤️), Consultant, 4 years
+  - [GitHub](https://github.com/extrapreneur), SysAdmin, 4 years
+
+### History (contributions)
+- Ingka (❤️) DevOps/Software engineer, 2 years
+- Inter IKEA Homesmart, Embedded/Software engineer 1 year
+- Inter IKEA, DevOps engineer 1 year
+- Örestad Linux, Front-end developer 1 year
+- Vergic, Software engineer 1 year
