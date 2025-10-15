@@ -11,7 +11,7 @@ A singular occurance of chaotic centralisation
 
 ### Status
 - [Extraprenuer](https://www.extrapreneur.se/) ♡, Consultant, (4 years)
-  - [GitHub](https://github.com/extrapreneur/), SysAdmin & Owner, (4 years)
+  - [GitHub organisation](https://github.com/extrapreneur/), SysAdmin & Owner, (4 years)
 
 ### History (contributions)
 - Ingka ♡, DevOps/Software engineer, (2 years)
