@@ -7,7 +7,7 @@ A singular occurance of chaotic centralisation
 
 > This is me, psilore
 > ♡ CSS ♡ HTML ♡ Javascript and ♡ Bash. Moderately proficient in those techniques  
-> I love docs and README files, terrified when they are absent
+> I love docs and README files, terrified 😱 when they are absent
 
 ### Status
 - [Extraprenuer](https://www.extrapreneur.se/) (♡), Consultant, 4 years
@@ -19,3 +19,10 @@ A singular occurance of chaotic centralisation
 - Inter IKEA (♡), DevOps engineer 1 year
 - Örestad Linux (♡), Front-end developer 1 year
 - Vergic, Software engineer 1 year
+
+### Enjoyments
+- Pentesting LAN and Wifi oriented
+- My homelab [Night-tower](https://github.com/psilore/night-tower)
+- Fiddling with IoT, break apart and try to understand
+- n8n and automation
+- plain and simpler javascript
