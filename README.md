@@ -6,15 +6,16 @@
 A singular occurance of chaotic centralisation
 
 > This is me, psilore
-> ♡ CSS ♡ HTML ♡ Javascript. Moderately proficient in those techniques
+> ♡ CSS ♡ HTML ♡ Javascript and ♡ Bash. Moderately proficient in those techniques
+> I love docs and README files, terrified when they are absent
 
 ### Status
-- [Extraprenuer](https://www.extrapreneur.se/) (❤️), Consultant, 4 years
+- [Extraprenuer](https://www.extrapreneur.se/) (♡), Consultant, 4 years
   - [GitHub](https://github.com/extrapreneur), SysAdmin, 4 years
 
 ### History (contributions)
-- Ingka (❤️) DevOps/Software engineer, 2 years
-- Inter IKEA Homesmart, Embedded/Software engineer 1 year
-- Inter IKEA, DevOps engineer 1 year
-- Örestad Linux, Front-end developer 1 year
+- Ingka (♡), DevOps/Software engineer, 2 years
+- Inter IKEA Homesmart (♡), DevOps/Embedded/Software engineer 1 year
+- Inter IKEA (♡), DevOps engineer 1 year
+- Örestad Linux (♡), Front-end developer 1 year
 - Vergic, Software engineer 1 year
