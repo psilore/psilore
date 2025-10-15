@@ -19,6 +19,7 @@ A singular occurance of chaotic centralisation
 - Inter IKEA ♡, DevOps engineer (1 year)
 - Örestad Linux ♡, Linux SysAdmin, Front-end developer (1 year)
 - Vergic, Software engineer (1 year)
+- [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
 ### Enjoyments
 - Pen testing, LAN and Wifi oriented
