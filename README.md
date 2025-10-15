@@ -6,7 +6,7 @@
 A singular occurance of chaotic centralisation
 
 > This is me, psilore
-> ♡ CSS ♡ HTML ♡ Javascript and ♡ Bash. Moderately proficient in those techniques
+> ♡ CSS ♡ HTML ♡ Javascript and ♡ Bash. Moderately proficient in those techniques  
 > I love docs and README files, terrified when they are absent
 
 ### Status
