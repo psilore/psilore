@@ -10,15 +10,15 @@ A singular occurance of chaotic centralisation
 > I love docs and README files, terrified 😱 when they are absent
 
 ### Status
-- [Extraprenuer](https://www.extrapreneur.se/) ♡, Consultant, 4 years
-  - [GitHub](https://github.com/extrapreneur/), SysAdmin, 4 years
+- [Extraprenuer](https://www.extrapreneur.se/) ♡, Consultant, (4 years)
+  - [GitHub](https://github.com/extrapreneur/), SysAdmin & Owner, (4 years)
 
 ### History (contributions)
-- Ingka ♡, DevOps/Software engineer, 2 years
-- Inter IKEA Homesmart ♡, DevOps/Embedded/Software engineer 1 year
-- Inter IKEA ♡, DevOps engineer 1 year
-- Örestad Linux ♡, Linux SysAdmin, Front-end developer 1 year
-- Vergic, Software engineer 1 year
+- Ingka ♡, DevOps/Software engineer, (2 years)
+- Inter IKEA Homesmart ♡, DevOps/Embedded/Software engineer (1 year)
+- Inter IKEA ♡, DevOps engineer (1 year)
+- Örestad Linux ♡, Linux SysAdmin, Front-end developer (1 year)
+- Vergic, Software engineer (1 year)
 
 ### Enjoyments
 - Pen testing, LAN and Wifi oriented
