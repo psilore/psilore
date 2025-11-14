@@ -14,10 +14,10 @@ A singular occurance of chaotic centralisation
   - [GitHub organisation](https://github.com/extrapreneur/), SysAdmin & Owner, (4 years)
 
 ### History (contributions)
-- Ingka ♡, DevOps/Software engineer, (2 years)
-- Inter IKEA Homesmart ♡, DevOps/Embedded/Software engineer (1 year)
-- Inter IKEA ♡, DevOps engineer (1 year)
-- Örestad Linux ♡, Linux SysAdmin, Front-end developer (1 year)
+- [Ingka](https://www.ingka.com/) ♡, DevOps/Software engineer, (2 years)
+- [Inter IKEA](https://www.inter.ikea.com/) Homesmart ♡, DevOps/Embedded/Software engineer (1 year)
+- [Inter IKEA](https://www.inter.ikea.com/) ♡, DevOps engineer (1 year)
+- [Örestad Linux](https://orestad-linux.se/) ♡, Linux SysAdmin, Front-end developer (1 year)
 - Vergic, Software engineer (1 year)
 - [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
