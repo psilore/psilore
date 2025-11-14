@@ -9,7 +9,7 @@ A singular occurance of chaotic centralisation
 > ♡ CSS ♡ HTML ♡ Javascript and ♡ Bash. Moderately proficient in those techniques  
 > I love docs and README files, terrified 😱 when they are absent
 
-### Status
+### Present
 - [Extraprenuer](https://www.extrapreneur.se/) ♡, Consultant, (4 years)
   - [GitHub organisation](https://github.com/extrapreneur/), SysAdmin & Owner, (4 years)
 
