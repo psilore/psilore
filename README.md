@@ -25,7 +25,8 @@ A singular occurance of chaotic centralisation
 - Vergic, Software engineer (1 year)
 - [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
-### Enjoyments
+### What makes me happy
+- Keeping things simpler
 - Pen testing, LAN and Wifi oriented
 - My homelab ♡, [Night-tower](https://github.com/psilore/night-tower/)
 - Fiddling with IoT, break apart and try to understand
