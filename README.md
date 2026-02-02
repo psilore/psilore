@@ -25,6 +25,18 @@ A singular occurance of chaotic centralisation
 - Vergic, Software engineer (1 year)
 - [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
+---
+
+### 🌟 Featured Projects
+
+#### 🏰 [Night-Tower](https://github.com/psilore/night-tower)
+> Our flagship homelab and server infrastructure project. It demonstrates our capability to manage complex, distributed systems with privacy in mind.
+
+#### 🐙 [Deployer](https://github.com/psilore/deployer)
+> A lightweight tool for automated deployment, showcasing our philosophy of keeping tooling simple and effective.
+
+---
+
 ### Repos
 🐙 - [https://github.com/psilore/deployer](https://github.com/psilore/deployer)  
 🧰 - [https://github.com/psilore/toolbox](https://github.com/psilore/toolbox)  
