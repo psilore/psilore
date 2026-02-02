@@ -25,6 +25,12 @@ A singular occurance of chaotic centralisation
 - Vergic, Software engineer (1 year)
 - [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
+### Repos
+🐙 - [https://github.com/psilore/deployer](https://github.com/psilore/deployer)
+🧰 - [https://github.com/psilore/toolbox](https://github.com/psilore/toolbox)
+👻 - [https://github.com/psilore/shadow-root](https://github.com/psilore/shadow-root)
+🧑‍🤝‍🧑 - [https://github.com/psilore/squad](https://github.com/psilore/squad)
+
 ### What makes me happy
 - Keeping things simpler
 - Pen testing, LAN and Wifi oriented
