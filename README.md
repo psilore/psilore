@@ -30,10 +30,11 @@ A singular occurance of chaotic centralisation
 ### 🌟 Featured Projects
 
 #### 🏰 [Night-Tower](https://github.com/psilore/night-tower)
-> Our flagship homelab and server infrastructure project. It demonstrates our capability to manage complex, distributed systems with privacy in mind.
+> Homelab and server infrastructure project. It demonstrates our capability to manage complex, distributed systems with privacy in mind.
 
 #### 🐙 [Deployer](https://github.com/psilore/deployer)
-> A lightweight tool for automated deployment, showcasing our philosophy of keeping tooling simple and effective.
+> A lightweight tool for automated deployment, showcasing our philosophy of keeping tooling simple and effective.  
+> Goes good together with [https://github.com/psilore/squad](https://github.com/psilore/squad)  
 
 ---
 
