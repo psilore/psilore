@@ -26,10 +26,10 @@ A singular occurance of chaotic centralisation
 - [Openlogger System AB](https://openlogger.se/) ♡, Freelance Frontend Developer and UX designer (2 years)
 
 ### Repos
-🐙 - [https://github.com/psilore/deployer](https://github.com/psilore/deployer)
-🧰 - [https://github.com/psilore/toolbox](https://github.com/psilore/toolbox)
-👻 - [https://github.com/psilore/shadow-root](https://github.com/psilore/shadow-root)
-🧑‍🤝‍🧑 - [https://github.com/psilore/squad](https://github.com/psilore/squad)
+🐙 - [https://github.com/psilore/deployer](https://github.com/psilore/deployer)  
+🧰 - [https://github.com/psilore/toolbox](https://github.com/psilore/toolbox)  
+👻 - [https://github.com/psilore/shadow-root](https://github.com/psilore/shadow-root)  
+🧑‍🤝‍🧑 - [https://github.com/psilore/squad](https://github.com/psilore/squad)  
 
 ### What makes me happy
 - Keeping things simpler
